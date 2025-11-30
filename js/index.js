@@ -20,6 +20,7 @@ async function fetchData() {
         // Check if the expected data structure exists
         if (data.echoesfrom1947 && data.echoesfrom1947.rows) {
             const rows = data.echoesfrom1947.rows;
+            console.log('Fetched rows:', rows);
             
             // Clear loading message
             tableBody.innerHTML = '';
