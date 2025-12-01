@@ -14,3 +14,5 @@ Join me as we dissect the news, challenge the narrative, and explore the potenti
 Subscribe now to be part of the conversation for a better Bharat.
 
 #India #CurrentAffairs #1947 #Independence #SocialIssues #IndianPolitics #UnfilteredTruth #Bharat #Progress #Development #CriticalAnalysis
+
+need to solve atleast 50 t0 87 isses in india
